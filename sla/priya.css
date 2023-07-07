@@ -1,0 +1,37 @@
+body {
+    background-color:#f6dcda;
+  }
+  hr{
+    border-style: none;
+    border-color: rgb(105, 100, 100);
+    width: 30%;
+    border-top-style:inherit;
+    border-width:2px;
+  }
+  img {
+    margin-top: auto;
+    border-radius: 50%;
+  }
+  h1 {
+    color:#f39189;
+  }
+  h2 {
+    color:#f39189;
+  }
+  h3{
+    color: #f6cbc7;
+    background-color: #000000;
+    text-align:center;
+  }
+  ul:hover{
+    background-color: azure;
+  }
+  p{
+    font-family: sans-serif;
+  }
+  mark:hover{
+    background-color:aquamarine;
+  }
+  ul{
+    list-style-type:disc;
+  }

@@ -1,0 +1,24 @@
+body {
+    background-color:#f6dcda;
+  }
+.submit{
+    font-family: sans-serif;
+    background-color: rgb(192, 129, 255);
+    font-weight: bolder;
+  }
+#contact{
+    background-image: url(itgirl.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+label{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 18px;
+  }
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+}
